@@ -126,7 +126,7 @@ social_icons:
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.jpg
 # in site  directory(source/uploads): /uploads/avatar.jpg
-#avatar:
+avatar: https://avatars1.githubusercontent.com/u/16551898?v=4&u=020fde6a90f450b11a87588db6f47862c9c71d04&s=400
 
 # Table Of Contents in the Sidebar
 toc:
@@ -316,7 +316,7 @@ han: false
 #swiftype_key:
 
 # Baidu Analytics ID
-#baidu_analytics:
+baidu_analytics:98af8e8dbea298c34af72e6505b87df8
 
 # Duoshuo ShortName
 #duoshuo_shortname:
