@@ -79,4 +79,4 @@ theme: next
 deploy:
   type: git
   branch: master
-  repo: git@github.com:Juaner0802/Juaner0802.github.io.git
+  repo: https://github.com/Juaner0802/Juaner0802.github.io.git
