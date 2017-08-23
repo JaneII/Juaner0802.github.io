@@ -211,7 +211,7 @@ post_wordcount:
 
 # Wechat Subscriber
 wechat_subscriber:
-  enabled: true
+  enabled: false
   qcode: /uploads/wechat-qcode.jpg
   description: 欢迎您扫一扫上面的微信公众号，订阅我的博客！
 
